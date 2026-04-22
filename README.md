@@ -17,11 +17,11 @@ pip install -r requirements.txt
 ```
 
 ### 2. Prepare the Vector Database (RAG)
-Run the script to chunk and embed the mock admission data:
+We are using **Chroma Cloud** to host our vector database. Run the script to process the CSV data and upload it to your Chroma Cloud cluster:
 ```bash
 python data_prep/build_vector_db.py
 ```
-*This will create a `vector_db` folder locally containing the ChromaDB data.*
+*This will upload the embeddings to your cloud database so the n8n workflow can query it from anywhere.*
 
 ### 3. Start the MCP Server
 In a new terminal window, start the MCP server:

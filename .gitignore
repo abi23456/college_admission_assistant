@@ -9,6 +9,9 @@ __pycache__/
 *.csv
 *.xlsx
 data_prep/vector_db/
+vector_db/
+*.sqlite3
+*.bin
 
 # OS generated files
 .DS_Store
