@@ -1,0 +1,15 @@
+# Python environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Data and Databases
+*.csv
+*.xlsx
+data_prep/vector_db/
+
+# OS generated files
+.DS_Store
+Thumbs.db

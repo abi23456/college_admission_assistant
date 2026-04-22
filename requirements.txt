@@ -1,0 +1,6 @@
+streamlit==1.32.2
+requests==2.31.0
+mcp==1.2.1
+chromadb==0.4.24
+sentence-transformers==2.5.1
+pydantic==2.6.4
