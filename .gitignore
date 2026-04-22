@@ -6,7 +6,6 @@ __pycache__/
 *.pyc
 
 # Data and Databases
-*.csv
 *.xlsx
 data_prep/vector_db/
 vector_db/

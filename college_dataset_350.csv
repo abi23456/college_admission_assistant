@@ -1,0 +1,351 @@
+College_Name,State,District,UG_Fee,PG_Fee,Ratings,Academics,Accommodation,Faculty,Infrastructure,Placement,Social_Life,Gender,12th_Percentage,Entrance_Exam_Name,Entrance_Exam_Rank,Preferred_Stream,Preferred_Course,Scholarship_Status,Application_Start_Date,Application_End_Date,Contact,Email
+SRM Institute,Uttar Pradesh,Noida,116372,387275,4.8,3,4,4,3,5,3,Male,84.6,NEET,3768,Medical,BDS,Yes,2025-02-15,2025-04-29,+918155593441,srminstitute@edu.in
+IIT Delhi,Punjab,Chandigarh,164971,343977,3.9,4,3,3,5,5,4,Female,73.5,CET,34585,Commerce,BBA,Yes,2025-04-18,2025-06-19,+919272212257,iitdelhi@edu.in
+IIT Delhi,Tamil Nadu,Chennai,149914,302789,3.5,3,5,3,5,5,3,Female,95.9,NEET,25903,Commerce,BCom,Yes,2025-05-08,2025-06-11,+918290512897,iitdelhi@edu.in
+VIT Vellore,Uttar Pradesh,Lucknow,239649,102978,3.9,4,3,4,5,4,3,Male,72.6,CET,29174,Medical,BDS,No,2025-05-21,2025-07-25,+918232320431,vitvellore@edu.in
+IIT Delhi,Rajasthan,Jaipur,215565,325553,3.5,3,5,4,4,3,5,Female,80.7,JEE,45330,Engineering,ECE,Yes,2025-01-02,2025-02-14,+917835124033,iitdelhi@edu.in
+VIT Vellore,Karnataka,Mysore,130255,330152,3.8,3,4,3,5,4,3,Female,80.4,CUET,30799,Engineering,Civil,Yes,2025-05-13,2025-07-03,+917201907905,vitvellore@edu.in
+Delhi University,Gujarat,Ahmedabad,183931,153948,3.6,3,3,5,3,5,5,Male,68.8,CUET,33118,Arts,BJMC,Yes,2025-05-27,2025-07-20,+917787884512,delhiuniversity@edu.in
+Anna University,Gujarat,Ahmedabad,176100,280996,4.2,4,5,4,3,3,4,Male,85.9,CUET,32310,Commerce,BCom,No,2025-02-05,2025-04-16,+918703041722,annauniversity@edu.in
+VIT Vellore,Uttar Pradesh,Noida,84887,73344,4.6,3,5,5,5,5,5,Male,76.1,CUET,23576,Medical,BDS,No,2025-06-18,2025-09-10,+918914367561,vitvellore@edu.in
+Christ University,Tamil Nadu,Madurai,279102,246926,3.2,3,5,3,3,3,3,Male,68.8,CET,26212,Arts,BJMC,Yes,2025-05-11,2025-06-21,+917368068164,christuniversity@edu.in
+SRM Institute,Punjab,Chandigarh,264537,88485,3.7,3,3,3,3,4,3,Female,73.6,JEE,32407,Engineering,Civil,No,2025-05-08,2025-07-01,+918334662967,srminstitute@edu.in
+Jadavpur University,Maharashtra,Nagpur,119844,161742,4.4,4,5,5,4,5,3,Male,79.0,CET,24892,Engineering,CSE,Yes,2025-03-08,2025-05-06,+917183718224,jadavpuruniversity@edu.in
+Amity University,Punjab,Chandigarh,205972,357276,3.3,3,5,3,5,4,4,Male,73.5,NEET,43219,Commerce,BCom,Yes,2025-06-13,2025-09-08,+919006883010,amityuniversity@edu.in
+Christ University,Delhi,New Delhi,253827,268800,4.4,3,3,4,4,4,5,Female,90.2,JEE,20299,Medical,BDS,No,2025-04-10,2025-05-26,+918126526058,christuniversity@edu.in
+IIT Bombay,Punjab,Chandigarh,156394,202561,4.9,5,5,4,4,4,3,Male,69.4,CET,23418,Arts,BJMC,Yes,2025-06-11,2025-09-06,+918305978100,iitbombay@edu.in
+IIT Bombay,Karnataka,Mysore,130034,79083,3.6,5,4,5,5,5,3,Female,94.7,NEET,15213,Arts,BJMC,Yes,2025-05-21,2025-07-25,+919171582247,iitbombay@edu.in
+Delhi University,West Bengal,Kolkata,64667,363871,3.4,5,3,3,4,5,4,Male,84.4,CET,16080,Medical,MBBS,No,2025-05-22,2025-06-26,+918088473133,delhiuniversity@edu.in
+VIT Vellore,Punjab,Chandigarh,94029,257685,3.9,3,4,5,4,5,4,Female,92.7,CUET,26834,Arts,BA,No,2025-04-16,2025-06-27,+919027371515,vitvellore@edu.in
+IIT Bombay,Tamil Nadu,Madurai,243611,395796,3.7,4,3,3,4,4,5,Male,65.8,NEET,45895,Arts,BJMC,No,2025-05-23,2025-06-26,+919491336233,iitbombay@edu.in
+BITS Pilani,Karnataka,Mysore,286112,215066,3.8,5,3,4,4,4,3,Male,95.9,CET,26062,Engineering,Mechanical,No,2025-04-26,2025-06-01,+919577476472,bitspilani@edu.in
+IIT Bombay,Rajasthan,Jaipur,115714,326325,4.7,4,3,3,3,4,4,Female,93.5,JEE,14847,Commerce,BBA,No,2025-01-11,2025-03-16,+919493541307,iitbombay@edu.in
+Jadavpur University,West Bengal,Kolkata,147672,90939,4.0,4,3,4,4,3,5,Male,97.5,CUET,14489,Arts,BJMC,Yes,2025-05-19,2025-07-07,+917267637685,jadavpuruniversity@edu.in
+SRM Institute,West Bengal,Kolkata,261570,310861,3.8,5,3,4,3,5,5,Female,95.3,JEE,47091,Medical,BDS,No,2025-01-03,2025-02-08,+917277596667,srminstitute@edu.in
+Anna University,Delhi,New Delhi,236226,330025,4.1,4,4,5,3,5,4,Male,68.3,JEE,15870,Engineering,CSE,No,2025-05-06,2025-06-15,+918881691378,annauniversity@edu.in
+VIT Vellore,Gujarat,Surat,94329,161831,3.2,3,5,5,5,3,4,Male,87.5,JEE,46319,Commerce,BBA,Yes,2025-05-04,2025-07-09,+919122345659,vitvellore@edu.in
+BITS Pilani,Uttar Pradesh,Lucknow,212306,88810,3.4,4,3,3,4,3,3,Female,88.5,CET,37116,Commerce,BCom,No,2025-04-18,2025-07-09,+918451446524,bitspilani@edu.in
+Delhi University,Uttar Pradesh,Lucknow,105854,133751,3.3,5,5,5,4,4,5,Male,97.4,CUET,40845,Medical,MBBS,No,2025-05-27,2025-08-07,+919384046099,delhiuniversity@edu.in
+Anna University,Tamil Nadu,Madurai,158418,329081,3.6,3,3,3,5,4,5,Male,65.2,CET,18577,Arts,BA,No,2025-06-02,2025-08-31,+919921820857,annauniversity@edu.in
+IIT Delhi,Gujarat,Ahmedabad,120683,84205,4.4,5,3,4,4,3,3,Male,84.6,CUET,22385,Engineering,ECE,Yes,2025-03-06,2025-06-01,+919108343500,iitdelhi@edu.in
+VIT Vellore,Punjab,Chandigarh,249042,158074,3.1,5,3,4,3,4,3,Male,83.2,CET,42927,Arts,BA,No,2025-01-26,2025-02-26,+918130110271,vitvellore@edu.in
+BITS Pilani,Tamil Nadu,Chennai,99229,318873,3.5,3,5,5,3,3,3,Male,87.6,CUET,37538,Commerce,BCom,No,2025-06-05,2025-08-29,+918973442071,bitspilani@edu.in
+Delhi University,West Bengal,Kolkata,263136,347223,4.6,5,4,5,4,4,3,Female,75.0,NEET,27730,Arts,BA,No,2025-06-09,2025-08-17,+919708054516,delhiuniversity@edu.in
+Delhi University,Tamil Nadu,Coimbatore,248195,373275,3.4,5,4,3,5,3,3,Female,85.9,CUET,48127,Engineering,Mechanical,Yes,2025-03-10,2025-05-08,+917774212989,delhiuniversity@edu.in
+NIT Trichy,Gujarat,Surat,241784,332720,3.3,3,3,4,4,5,5,Female,93.9,CET,39431,Medical,BDS,Yes,2025-05-21,2025-08-06,+918285740656,nittrichy@edu.in
+VIT Vellore,Uttar Pradesh,Noida,125353,224130,4.1,5,4,3,3,4,3,Male,93.1,JEE,8113,Commerce,BCom,No,2025-01-20,2025-04-10,+919178556157,vitvellore@edu.in
+SRM Institute,Karnataka,Mysore,282777,233123,4.1,4,3,3,3,4,3,Female,72.9,JEE,9951,Medical,BDS,Yes,2025-03-25,2025-06-12,+918338094674,srminstitute@edu.in
+NIT Trichy,Gujarat,Surat,97913,373456,3.7,3,4,4,5,3,4,Female,70.2,NEET,15711,Engineering,CSE,Yes,2025-02-16,2025-04-30,+918648096324,nittrichy@edu.in
+SRM Institute,Punjab,Chandigarh,260947,129665,3.9,5,3,4,4,5,4,Male,79.2,JEE,16998,Engineering,Civil,No,2025-01-27,2025-04-03,+919955355463,srminstitute@edu.in
+Anna University,Gujarat,Ahmedabad,75046,329384,4.3,4,4,4,5,3,5,Female,75.7,CUET,47977,Commerce,BBA,Yes,2025-05-08,2025-06-16,+917992290870,annauniversity@edu.in
+IIT Delhi,Karnataka,Bangalore,131203,178269,4.7,4,4,4,3,3,5,Male,84.0,NEET,41892,Engineering,Civil,No,2025-04-20,2025-06-21,+917452838817,iitdelhi@edu.in
+IIT Bombay,Maharashtra,Nagpur,166056,98177,4.2,4,4,4,5,3,3,Male,65.2,NEET,20714,Arts,BJMC,No,2025-05-02,2025-06-28,+917720861628,iitbombay@edu.in
+Mumbai University,Tamil Nadu,Madurai,72104,155863,4.8,4,5,5,5,5,4,Male,73.1,NEET,5394,Engineering,Mechanical,No,2025-02-11,2025-04-03,+918770708969,mumbaiuniversity@edu.in
+Amity University,Uttar Pradesh,Lucknow,58076,397328,3.1,4,4,3,3,4,4,Female,96.5,JEE,40842,Arts,BA,Yes,2025-06-14,2025-09-04,+919874611934,amityuniversity@edu.in
+IIT Delhi,Punjab,Chandigarh,216458,96264,4.2,4,4,4,4,4,4,Female,68.3,NEET,38537,Arts,BJMC,Yes,2025-06-14,2025-08-14,+918415774877,iitdelhi@edu.in
+Jadavpur University,Rajasthan,Jaipur,226548,397189,4.8,4,4,4,4,5,4,Male,79.5,CET,8701,Engineering,Civil,Yes,2025-02-07,2025-03-18,+919111591960,jadavpuruniversity@edu.in
+VIT Vellore,Karnataka,Mysore,272606,317874,3.3,5,3,5,3,4,5,Female,68.8,CET,34925,Arts,BJMC,No,2025-01-11,2025-03-20,+918993717491,vitvellore@edu.in
+IIT Delhi,Uttar Pradesh,Noida,113237,303044,4.6,3,5,4,3,4,3,Female,72.0,CUET,5100,Medical,MBBS,Yes,2025-01-04,2025-03-23,+919022802261,iitdelhi@edu.in
+Mumbai University,Maharashtra,Pune,65126,371211,3.1,3,5,4,4,3,5,Female,65.6,NEET,15310,Arts,BJMC,Yes,2025-05-18,2025-07-01,+919312328221,mumbaiuniversity@edu.in
+BITS Pilani,Maharashtra,Mumbai,211520,198996,4.0,4,5,5,4,4,4,Male,93.0,CET,29669,Commerce,BBA,No,2025-05-27,2025-08-03,+919068071870,bitspilani@edu.in
+IIT Delhi,West Bengal,Kolkata,106060,350878,4.3,4,3,3,5,4,5,Female,65.0,NEET,43954,Medical,BDS,No,2025-06-27,2025-09-20,+917448423744,iitdelhi@edu.in
+Mumbai University,Punjab,Chandigarh,84386,397961,3.8,5,4,4,3,5,3,Female,86.0,CET,21116,Engineering,CSE,Yes,2025-06-20,2025-08-10,+919953697749,mumbaiuniversity@edu.in
+NIT Trichy,West Bengal,Kolkata,159882,254955,4.7,4,3,3,4,4,4,Female,66.6,JEE,28996,Arts,BA,No,2025-02-26,2025-04-02,+917886816924,nittrichy@edu.in
+IIT Delhi,Maharashtra,Pune,119685,76908,4.8,3,4,4,3,5,5,Male,76.1,JEE,44572,Arts,BJMC,No,2025-06-07,2025-08-21,+918333982476,iitdelhi@edu.in
+Anna University,Karnataka,Mysore,113558,151134,4.4,4,5,4,4,5,4,Male,85.6,CUET,1527,Commerce,BCom,Yes,2025-03-01,2025-04-29,+918017147966,annauniversity@edu.in
+NIT Trichy,Maharashtra,Mumbai,292221,234145,3.0,5,5,5,3,4,5,Male,82.6,CUET,43569,Medical,BDS,No,2025-05-23,2025-07-17,+917338813083,nittrichy@edu.in
+Delhi University,Rajasthan,Jaipur,103199,379938,3.9,5,4,5,5,5,3,Male,72.0,NEET,44286,Engineering,Civil,No,2025-04-24,2025-06-09,+918622435873,delhiuniversity@edu.in
+IIT Bombay,Uttar Pradesh,Noida,72474,357154,3.9,4,3,5,4,5,4,Female,87.3,CET,13745,Medical,MBBS,No,2025-01-06,2025-02-12,+917892012339,iitbombay@edu.in
+Jadavpur University,Tamil Nadu,Madurai,141830,157740,4.0,4,4,4,3,3,4,Male,78.6,CUET,10886,Engineering,ECE,Yes,2025-02-10,2025-04-03,+918094897368,jadavpuruniversity@edu.in
+BITS Pilani,West Bengal,Kolkata,129209,279053,4.6,4,4,4,4,3,5,Female,79.3,NEET,43822,Medical,MBBS,Yes,2025-06-13,2025-07-26,+917347887466,bitspilani@edu.in
+Amity University,West Bengal,Kolkata,289381,157284,4.5,5,4,3,3,5,5,Male,79.0,NEET,16703,Medical,MBBS,Yes,2025-02-22,2025-05-23,+919828620287,amityuniversity@edu.in
+BITS Pilani,Tamil Nadu,Madurai,98437,320389,4.1,4,3,3,3,5,4,Male,83.1,JEE,11874,Arts,BA,Yes,2025-01-16,2025-04-15,+918080440659,bitspilani@edu.in
+IIT Bombay,Maharashtra,Nagpur,226812,353452,4.8,4,3,5,5,5,3,Female,96.6,CET,8207,Commerce,BCom,No,2025-03-06,2025-05-15,+919515930187,iitbombay@edu.in
+Jadavpur University,Uttar Pradesh,Lucknow,213181,215283,3.9,5,3,5,5,5,4,Male,72.1,CET,29112,Engineering,Mechanical,No,2025-02-25,2025-05-25,+919659267713,jadavpuruniversity@edu.in
+IIT Delhi,Punjab,Chandigarh,184936,128211,3.4,3,3,3,3,3,5,Female,66.1,JEE,28298,Commerce,BBA,Yes,2025-01-14,2025-03-23,+919417110770,iitdelhi@edu.in
+Amity University,Gujarat,Surat,106234,385727,4.5,5,5,4,5,3,4,Female,92.4,JEE,49302,Engineering,ECE,No,2025-04-06,2025-06-04,+917033220336,amityuniversity@edu.in
+Delhi University,Karnataka,Bangalore,288009,71802,3.7,4,4,5,5,4,5,Male,76.8,JEE,40089,Commerce,BBA,Yes,2025-04-16,2025-06-03,+919184407413,delhiuniversity@edu.in
+Mumbai University,Uttar Pradesh,Lucknow,70771,358989,4.4,5,5,4,4,3,5,Male,70.8,JEE,39205,Engineering,Civil,Yes,2025-04-22,2025-07-19,+919865307700,mumbaiuniversity@edu.in
+Anna University,Punjab,Chandigarh,205468,325808,4.6,5,3,3,3,3,4,Male,78.9,JEE,31464,Engineering,CSE,Yes,2025-02-24,2025-05-08,+917326149989,annauniversity@edu.in
+Mumbai University,Delhi,New Delhi,280675,131824,4.7,5,5,5,4,5,3,Male,89.2,CET,6161,Engineering,ECE,No,2025-06-08,2025-08-16,+919341181551,mumbaiuniversity@edu.in
+BITS Pilani,Tamil Nadu,Chennai,107624,366163,4.2,5,4,5,5,3,3,Female,71.6,CUET,18255,Arts,BA,No,2025-04-26,2025-07-18,+917500093603,bitspilani@edu.in
+NIT Trichy,West Bengal,Kolkata,239848,85632,3.6,4,5,4,4,4,3,Male,87.7,CET,16078,Engineering,CSE,Yes,2025-02-05,2025-03-27,+917643431004,nittrichy@edu.in
+Amity University,West Bengal,Kolkata,293998,361107,4.4,4,5,4,5,5,5,Male,89.9,JEE,41927,Commerce,BCom,No,2025-05-18,2025-07-02,+918589275496,amityuniversity@edu.in
+Jadavpur University,Karnataka,Bangalore,201472,142292,3.2,3,4,3,3,5,5,Female,93.8,NEET,19197,Engineering,Mechanical,Yes,2025-04-11,2025-06-09,+917417248159,jadavpuruniversity@edu.in
+IIT Bombay,Gujarat,Surat,286891,202641,5.0,4,5,3,4,4,3,Female,89.2,CET,10000,Commerce,BCom,Yes,2025-02-19,2025-04-13,+919205891099,iitbombay@edu.in
+Christ University,Tamil Nadu,Coimbatore,267750,394213,3.5,5,4,5,3,3,3,Male,80.8,JEE,11083,Commerce,BBA,No,2025-05-02,2025-06-06,+917877487348,christuniversity@edu.in
+Anna University,Maharashtra,Mumbai,272110,164084,3.0,3,3,5,3,5,5,Female,80.7,NEET,20847,Engineering,Civil,Yes,2025-05-09,2025-06-27,+918779539266,annauniversity@edu.in
+BITS Pilani,Punjab,Chandigarh,286065,295762,3.4,5,3,3,3,4,3,Female,84.4,CUET,30178,Arts,BA,No,2025-05-18,2025-06-18,+918026261054,bitspilani@edu.in
+IIT Bombay,Delhi,New Delhi,85943,90487,3.1,5,3,4,4,5,5,Male,73.6,JEE,7804,Engineering,ECE,No,2025-02-01,2025-04-12,+917680939126,iitbombay@edu.in
+Amity University,Punjab,Chandigarh,103528,163801,4.9,3,5,4,3,3,4,Male,88.7,JEE,30378,Arts,BA,Yes,2025-05-14,2025-06-25,+919569068046,amityuniversity@edu.in
+Anna University,Delhi,New Delhi,168367,300556,4.8,4,3,3,4,5,4,Female,96.3,CUET,11950,Medical,MBBS,Yes,2025-02-19,2025-05-14,+917556985808,annauniversity@edu.in
+Amity University,Maharashtra,Nagpur,113437,398376,3.8,5,4,5,3,3,3,Female,89.9,CET,10,Medical,MBBS,No,2025-05-15,2025-07-01,+919317856248,amityuniversity@edu.in
+Anna University,Tamil Nadu,Chennai,182521,300075,4.2,3,4,5,3,3,3,Female,83.2,NEET,383,Arts,BJMC,No,2025-04-01,2025-05-27,+919809831540,annauniversity@edu.in
+Delhi University,Delhi,New Delhi,173956,199956,4.8,4,4,5,4,5,3,Female,69.5,CUET,13893,Engineering,Mechanical,No,2025-03-10,2025-04-30,+917127684922,delhiuniversity@edu.in
+Anna University,Rajasthan,Jaipur,252643,294939,4.2,3,3,4,4,5,4,Female,86.3,JEE,33168,Arts,BJMC,Yes,2025-02-12,2025-05-07,+918505289011,annauniversity@edu.in
+VIT Vellore,West Bengal,Kolkata,208256,249948,3.1,5,4,3,5,3,3,Female,95.9,CET,22230,Commerce,BBA,Yes,2025-05-11,2025-06-21,+917642179178,vitvellore@edu.in
+Delhi University,Gujarat,Ahmedabad,203290,275869,3.6,4,5,5,5,4,4,Male,97.0,JEE,39541,Arts,BJMC,No,2025-02-19,2025-04-24,+918265528902,delhiuniversity@edu.in
+Mumbai University,Delhi,New Delhi,226147,95271,4.4,5,5,3,3,5,3,Female,81.2,JEE,31933,Medical,MBBS,Yes,2025-04-16,2025-07-13,+919438087217,mumbaiuniversity@edu.in
+Mumbai University,Rajasthan,Jaipur,148118,346991,4.5,5,4,3,3,5,5,Male,68.2,NEET,49833,Arts,BA,Yes,2025-04-22,2025-07-09,+919267258118,mumbaiuniversity@edu.in
+Anna University,West Bengal,Kolkata,100140,183765,3.3,3,5,3,4,3,5,Male,74.6,JEE,27334,Engineering,ECE,Yes,2025-02-20,2025-04-09,+918097237282,annauniversity@edu.in
+BITS Pilani,Tamil Nadu,Chennai,219608,275657,4.4,5,3,5,3,3,3,Female,67.6,NEET,14528,Engineering,CSE,No,2025-06-13,2025-08-02,+918158890018,bitspilani@edu.in
+SRM Institute,Delhi,New Delhi,263572,179944,4.2,3,5,3,4,4,4,Female,74.1,NEET,49487,Commerce,BBA,No,2025-02-08,2025-04-22,+919848492645,srminstitute@edu.in
+Anna University,Maharashtra,Mumbai,146212,282013,4.9,5,4,3,4,4,4,Male,82.4,CET,13248,Engineering,CSE,No,2025-03-25,2025-04-24,+919312526860,annauniversity@edu.in
+IIT Delhi,Gujarat,Surat,248416,271208,3.3,3,3,3,5,3,3,Male,74.6,NEET,43458,Medical,MBBS,No,2025-05-12,2025-07-04,+918820633556,iitdelhi@edu.in
+Jadavpur University,Delhi,New Delhi,155586,196971,3.2,4,4,5,4,4,3,Female,87.0,CUET,47595,Arts,BJMC,No,2025-02-20,2025-04-17,+918072331018,jadavpuruniversity@edu.in
+Christ University,West Bengal,Kolkata,221435,320991,3.3,3,5,5,5,3,5,Female,82.1,NEET,29022,Engineering,CSE,No,2025-01-24,2025-04-05,+918331294367,christuniversity@edu.in
+IIT Bombay,Uttar Pradesh,Noida,58817,322566,4.0,3,3,4,3,5,3,Female,77.6,JEE,47145,Arts,BJMC,Yes,2025-06-14,2025-08-31,+918988579975,iitbombay@edu.in
+IIT Delhi,Rajasthan,Jaipur,247529,191251,3.4,4,3,4,5,5,5,Male,72.5,NEET,4099,Medical,BDS,No,2025-01-08,2025-03-22,+919428221722,iitdelhi@edu.in
+VIT Vellore,Karnataka,Mysore,220676,259172,4.5,5,5,3,3,5,4,Female,95.5,CUET,31445,Arts,BA,Yes,2025-02-08,2025-05-04,+918377558331,vitvellore@edu.in
+Amity University,Tamil Nadu,Coimbatore,261027,286668,4.3,3,3,4,4,4,5,Female,97.8,NEET,15703,Commerce,BCom,No,2025-03-13,2025-05-21,+919746253726,amityuniversity@edu.in
+IIT Delhi,Rajasthan,Jaipur,192377,174788,4.1,4,5,5,5,5,3,Female,66.4,CUET,1246,Commerce,BCom,No,2025-02-22,2025-03-27,+918229042534,iitdelhi@edu.in
+Delhi University,Delhi,New Delhi,231375,105270,4.3,5,4,5,4,3,5,Male,85.2,NEET,41114,Engineering,ECE,Yes,2025-06-03,2025-07-19,+917867242283,delhiuniversity@edu.in
+Jadavpur University,Maharashtra,Pune,62936,245182,4.5,5,4,4,5,4,5,Male,68.8,JEE,16552,Commerce,BBA,Yes,2025-01-26,2025-03-04,+919173615173,jadavpuruniversity@edu.in
+Anna University,Karnataka,Bangalore,64478,256884,4.6,4,3,5,3,5,4,Male,83.0,CET,32355,Medical,BDS,Yes,2025-02-24,2025-05-14,+918053952941,annauniversity@edu.in
+IIT Bombay,West Bengal,Kolkata,143350,253129,4.6,4,3,4,4,4,5,Female,96.8,NEET,48594,Commerce,BCom,Yes,2025-02-13,2025-04-03,+918828418611,iitbombay@edu.in
+Anna University,Gujarat,Surat,164637,136072,3.2,3,4,3,4,4,3,Male,76.6,NEET,6189,Commerce,BBA,Yes,2025-02-01,2025-04-29,+919362111336,annauniversity@edu.in
+NIT Trichy,Delhi,New Delhi,131287,175718,4.2,5,3,5,4,4,3,Female,73.6,CUET,794,Arts,BA,No,2025-05-14,2025-06-15,+919907685942,nittrichy@edu.in
+Delhi University,Maharashtra,Mumbai,83228,288561,3.5,4,4,3,5,3,3,Male,70.1,CET,46602,Engineering,Mechanical,No,2025-04-17,2025-06-18,+918318326584,delhiuniversity@edu.in
+BITS Pilani,Maharashtra,Nagpur,63700,386141,3.1,4,3,4,5,3,3,Male,88.6,CUET,40420,Engineering,ECE,Yes,2025-03-26,2025-05-14,+918850628209,bitspilani@edu.in
+VIT Vellore,Punjab,Chandigarh,269700,81243,4.9,5,5,4,5,3,3,Female,91.3,NEET,47789,Arts,BJMC,Yes,2025-05-25,2025-07-26,+919357406283,vitvellore@edu.in
+NIT Trichy,West Bengal,Kolkata,107896,218684,5.0,4,4,4,5,3,4,Female,78.1,NEET,31146,Arts,BA,Yes,2025-03-09,2025-05-17,+917723400957,nittrichy@edu.in
+Delhi University,Gujarat,Ahmedabad,185378,226728,3.4,4,3,5,4,3,3,Female,66.0,CUET,7031,Engineering,ECE,No,2025-02-19,2025-04-13,+919907476912,delhiuniversity@edu.in
+IIT Delhi,Punjab,Chandigarh,149566,213523,3.5,5,5,3,4,5,3,Female,68.8,CET,3191,Arts,BJMC,Yes,2025-06-24,2025-07-29,+918987897400,iitdelhi@edu.in
+BITS Pilani,Punjab,Chandigarh,237815,101535,4.8,3,3,3,4,5,5,Female,71.3,CUET,46422,Medical,MBBS,No,2025-05-25,2025-07-20,+917541531919,bitspilani@edu.in
+Christ University,Rajasthan,Jaipur,127924,382452,4.6,4,3,3,3,5,4,Male,70.4,CUET,9810,Engineering,Mechanical,Yes,2025-02-25,2025-04-15,+919018505991,christuniversity@edu.in
+Mumbai University,Karnataka,Mysore,53246,336159,3.9,4,4,5,4,3,3,Female,85.7,CET,24009,Medical,MBBS,Yes,2025-06-08,2025-08-04,+919576829981,mumbaiuniversity@edu.in
+VIT Vellore,Uttar Pradesh,Lucknow,188683,365057,4.4,3,3,3,4,3,3,Male,85.1,CET,15917,Medical,MBBS,Yes,2025-03-11,2025-04-20,+918266730212,vitvellore@edu.in
+BITS Pilani,Delhi,New Delhi,282249,199312,3.6,5,4,4,4,4,4,Female,90.9,JEE,38007,Commerce,BBA,No,2025-06-18,2025-08-05,+918329231816,bitspilani@edu.in
+VIT Vellore,Rajasthan,Jaipur,91294,201108,4.4,3,4,5,4,4,3,Male,81.9,NEET,14106,Medical,BDS,No,2025-05-20,2025-07-20,+918973028646,vitvellore@edu.in
+Delhi University,Tamil Nadu,Coimbatore,95851,185804,4.1,3,3,5,3,3,5,Male,90.9,NEET,14503,Medical,MBBS,Yes,2025-04-13,2025-05-17,+918129613470,delhiuniversity@edu.in
+Delhi University,Maharashtra,Mumbai,76787,75825,4.9,3,3,5,4,5,3,Female,95.0,JEE,40023,Arts,BJMC,Yes,2025-01-11,2025-02-27,+919920108227,delhiuniversity@edu.in
+Anna University,Punjab,Chandigarh,185436,178290,4.0,5,4,3,5,5,5,Female,68.0,CUET,39174,Engineering,Civil,No,2025-05-01,2025-06-08,+919771440980,annauniversity@edu.in
+Amity University,Karnataka,Mysore,92121,213041,3.4,3,4,4,4,3,4,Female,89.4,NEET,19205,Engineering,ECE,No,2025-01-13,2025-03-22,+919507030005,amityuniversity@edu.in
+NIT Trichy,Uttar Pradesh,Noida,147332,201324,3.5,3,3,5,5,5,3,Male,74.8,CUET,34126,Engineering,Mechanical,Yes,2025-06-02,2025-07-02,+919321679987,nittrichy@edu.in
+VIT Vellore,West Bengal,Kolkata,73495,91836,3.4,4,4,5,5,4,5,Male,66.5,CET,44264,Arts,BJMC,No,2025-06-06,2025-07-07,+917211524016,vitvellore@edu.in
+Christ University,Tamil Nadu,Madurai,201645,207898,4.8,4,4,5,4,4,3,Female,76.7,JEE,44474,Medical,MBBS,No,2025-01-11,2025-03-27,+919180640668,christuniversity@edu.in
+Anna University,Tamil Nadu,Coimbatore,168132,187338,4.5,3,5,5,3,4,4,Male,66.7,JEE,9352,Arts,BJMC,No,2025-04-05,2025-07-02,+918637526037,annauniversity@edu.in
+IIT Delhi,Gujarat,Ahmedabad,202551,80946,4.5,3,3,4,5,4,3,Female,90.3,CUET,445,Commerce,BBA,Yes,2025-04-05,2025-06-03,+918557763463,iitdelhi@edu.in
+NIT Trichy,Maharashtra,Nagpur,109759,259181,3.9,5,5,5,3,3,5,Female,65.7,CET,4413,Medical,MBBS,Yes,2025-03-25,2025-05-29,+918406126839,nittrichy@edu.in
+Delhi University,Maharashtra,Pune,162694,390401,4.8,4,3,5,5,5,3,Male,75.0,CUET,37000,Arts,BJMC,Yes,2025-03-21,2025-06-14,+918265852075,delhiuniversity@edu.in
+SRM Institute,Tamil Nadu,Coimbatore,280936,211669,3.6,5,3,3,4,5,4,Male,66.7,CET,40884,Medical,MBBS,Yes,2025-01-11,2025-03-26,+917621684989,srminstitute@edu.in
+IIT Bombay,Uttar Pradesh,Lucknow,200264,247643,3.1,4,5,3,3,4,3,Male,88.7,JEE,42754,Commerce,BBA,Yes,2025-04-07,2025-05-17,+919656434328,iitbombay@edu.in
+Anna University,Gujarat,Surat,101466,222643,4.6,3,5,5,4,5,4,Male,74.7,JEE,49513,Commerce,BBA,Yes,2025-05-10,2025-06-23,+919561241461,annauniversity@edu.in
+NIT Trichy,Tamil Nadu,Madurai,249208,170619,3.4,5,3,3,4,5,5,Female,72.9,CUET,38611,Medical,BDS,Yes,2025-06-15,2025-07-25,+918449629303,nittrichy@edu.in
+Christ University,Delhi,New Delhi,275509,353033,3.6,4,5,5,4,3,5,Female,86.4,NEET,7139,Arts,BJMC,Yes,2025-01-27,2025-03-10,+917416640172,christuniversity@edu.in
+IIT Bombay,Maharashtra,Pune,289124,321582,3.2,5,5,3,4,3,3,Male,77.9,CUET,35317,Commerce,BBA,No,2025-05-13,2025-06-16,+919583473821,iitbombay@edu.in
+Delhi University,Uttar Pradesh,Noida,113338,348497,4.2,4,5,3,3,5,4,Female,81.3,CET,8520,Arts,BJMC,Yes,2025-05-02,2025-07-30,+919328579666,delhiuniversity@edu.in
+NIT Trichy,Uttar Pradesh,Noida,113985,372989,4.3,3,4,4,5,4,4,Female,97.2,CET,43170,Medical,MBBS,Yes,2025-04-20,2025-06-04,+918183807980,nittrichy@edu.in
+IIT Bombay,Rajasthan,Jaipur,211433,101726,4.0,4,3,5,3,4,3,Male,72.7,JEE,19580,Engineering,Civil,Yes,2025-01-21,2025-02-22,+917722222738,iitbombay@edu.in
+Delhi University,West Bengal,Kolkata,280904,326701,3.2,3,4,5,4,4,5,Female,97.5,CUET,36940,Medical,BDS,No,2025-06-27,2025-08-10,+919628035485,delhiuniversity@edu.in
+IIT Delhi,Uttar Pradesh,Lucknow,54100,363744,3.1,4,4,3,5,4,4,Female,93.6,NEET,49352,Engineering,Civil,No,2025-04-02,2025-06-15,+919581730414,iitdelhi@edu.in
+Christ University,Uttar Pradesh,Noida,131911,366787,4.2,3,3,3,5,3,4,Male,81.4,JEE,21508,Engineering,CSE,Yes,2025-03-16,2025-04-30,+919896347791,christuniversity@edu.in
+SRM Institute,Uttar Pradesh,Lucknow,286687,342026,3.8,4,3,5,5,5,3,Female,75.6,CET,41016,Medical,BDS,Yes,2025-01-25,2025-04-18,+919317352240,srminstitute@edu.in
+VIT Vellore,Tamil Nadu,Madurai,138147,190968,3.8,5,3,3,4,4,3,Male,65.8,NEET,26352,Medical,MBBS,No,2025-05-07,2025-06-26,+918826734423,vitvellore@edu.in
+Anna University,Tamil Nadu,Madurai,165696,260994,3.9,4,4,5,4,5,5,Male,93.3,CUET,48689,Medical,BDS,No,2025-03-21,2025-05-09,+919057654746,annauniversity@edu.in
+Mumbai University,Rajasthan,Jaipur,68175,210352,3.9,5,3,5,5,3,5,Male,97.9,JEE,15478,Arts,BJMC,No,2025-02-17,2025-03-25,+917258434163,mumbaiuniversity@edu.in
+NIT Trichy,Rajasthan,Jaipur,286285,153630,4.9,3,4,3,4,3,4,Female,97.8,CET,673,Commerce,BCom,No,2025-05-07,2025-06-06,+917479082791,nittrichy@edu.in
+Amity University,Gujarat,Ahmedabad,216170,307665,3.0,3,3,3,4,3,4,Female,91.2,CUET,34365,Medical,MBBS,Yes,2025-01-06,2025-04-01,+917397618211,amityuniversity@edu.in
+Delhi University,Rajasthan,Jaipur,84157,359467,3.3,3,3,3,5,3,5,Female,66.6,CUET,44920,Commerce,BCom,No,2025-02-05,2025-04-14,+918440466250,delhiuniversity@edu.in
+Anna University,Tamil Nadu,Madurai,199573,238121,3.0,4,5,3,5,4,3,Female,84.1,CUET,32991,Engineering,CSE,No,2025-01-20,2025-04-17,+918245597515,annauniversity@edu.in
+VIT Vellore,Rajasthan,Jaipur,157803,150491,3.1,5,5,5,3,3,4,Female,76.4,JEE,48569,Commerce,BBA,No,2025-02-08,2025-03-17,+919832465233,vitvellore@edu.in
+Amity University,West Bengal,Kolkata,173990,268694,4.9,5,4,3,5,5,4,Female,85.4,CET,22027,Medical,BDS,No,2025-04-16,2025-06-21,+918783404204,amityuniversity@edu.in
+Christ University,West Bengal,Kolkata,210127,111680,3.6,4,5,4,5,4,4,Male,70.5,CET,5760,Commerce,BCom,Yes,2025-01-13,2025-03-17,+917446493738,christuniversity@edu.in
+Delhi University,Delhi,New Delhi,213809,353815,4.6,5,4,4,4,5,4,Male,76.3,CET,29751,Commerce,BCom,No,2025-05-27,2025-06-27,+918569095024,delhiuniversity@edu.in
+Mumbai University,Uttar Pradesh,Lucknow,250928,327001,3.3,3,5,4,3,3,4,Female,85.4,CET,29773,Engineering,ECE,No,2025-05-08,2025-08-02,+918009005513,mumbaiuniversity@edu.in
+BITS Pilani,Delhi,New Delhi,295735,249986,3.8,5,4,5,3,4,3,Male,92.3,JEE,11716,Commerce,BCom,Yes,2025-06-16,2025-09-12,+918576003667,bitspilani@edu.in
+NIT Trichy,Gujarat,Surat,288375,185904,4.4,4,5,3,3,4,4,Male,97.6,JEE,26378,Arts,BJMC,Yes,2025-06-21,2025-08-04,+919247089324,nittrichy@edu.in
+Delhi University,Rajasthan,Jaipur,116550,294479,3.8,4,4,5,3,5,3,Female,80.5,CUET,30262,Engineering,Mechanical,No,2025-01-25,2025-04-18,+917932033104,delhiuniversity@edu.in
+SRM Institute,Uttar Pradesh,Lucknow,125460,352665,4.8,5,3,5,3,5,4,Female,81.8,NEET,4207,Arts,BJMC,No,2025-06-25,2025-09-23,+919240566512,srminstitute@edu.in
+IIT Bombay,Delhi,New Delhi,259728,152192,3.5,4,3,5,3,4,3,Female,66.9,NEET,14938,Medical,BDS,No,2025-06-04,2025-07-05,+919124731710,iitbombay@edu.in
+Amity University,Gujarat,Ahmedabad,81059,293368,4.9,3,4,3,3,3,4,Female,89.3,CUET,32290,Medical,MBBS,Yes,2025-01-17,2025-03-28,+917423239163,amityuniversity@edu.in
+Amity University,Delhi,New Delhi,275376,363254,4.5,4,4,5,5,3,4,Female,89.5,CUET,26753,Engineering,Mechanical,Yes,2025-05-25,2025-08-13,+919123115005,amityuniversity@edu.in
+SRM Institute,Karnataka,Mysore,253011,392029,4.4,4,4,4,4,4,3,Female,80.5,NEET,4841,Engineering,ECE,No,2025-04-27,2025-06-22,+917201686027,srminstitute@edu.in
+IIT Delhi,Rajasthan,Jaipur,294672,188796,3.9,5,4,4,5,4,5,Male,68.5,NEET,29083,Medical,MBBS,Yes,2025-06-07,2025-07-10,+919726289152,iitdelhi@edu.in
+BITS Pilani,Uttar Pradesh,Lucknow,108146,100654,4.8,5,3,5,3,4,5,Female,83.9,CET,29008,Medical,BDS,No,2025-02-07,2025-04-18,+918319724556,bitspilani@edu.in
+SRM Institute,Delhi,New Delhi,65756,248311,3.5,3,3,4,4,5,3,Female,70.2,CUET,47968,Arts,BA,No,2025-03-01,2025-05-09,+919481320307,srminstitute@edu.in
+NIT Trichy,Uttar Pradesh,Lucknow,52463,228166,3.3,5,4,4,3,5,5,Female,93.1,CUET,22751,Arts,BJMC,No,2025-02-11,2025-04-09,+918182185126,nittrichy@edu.in
+VIT Vellore,Gujarat,Ahmedabad,172150,320683,3.6,4,4,3,4,4,5,Male,71.4,CET,20218,Engineering,CSE,Yes,2025-01-18,2025-03-21,+917718762187,vitvellore@edu.in
+Mumbai University,West Bengal,Kolkata,198636,115381,4.3,4,4,4,3,3,5,Female,94.7,JEE,11450,Engineering,CSE,No,2025-04-24,2025-06-04,+919728491835,mumbaiuniversity@edu.in
+BITS Pilani,Rajasthan,Jaipur,125824,103354,4.7,3,3,4,5,3,4,Male,75.5,CUET,1458,Engineering,ECE,No,2025-04-16,2025-06-09,+918749934686,bitspilani@edu.in
+Anna University,Rajasthan,Jaipur,88818,139305,4.9,5,3,4,5,3,4,Female,80.1,CUET,11343,Medical,MBBS,Yes,2025-01-28,2025-03-01,+918746162292,annauniversity@edu.in
+VIT Vellore,Karnataka,Mysore,234165,312668,3.3,4,5,4,5,4,3,Female,83.3,CET,10969,Engineering,Mechanical,No,2025-05-25,2025-07-27,+919264993358,vitvellore@edu.in
+NIT Trichy,Uttar Pradesh,Lucknow,228098,77394,4.8,5,5,5,4,4,4,Male,68.0,JEE,38886,Commerce,BBA,No,2025-02-06,2025-05-02,+918484086922,nittrichy@edu.in
+Mumbai University,Tamil Nadu,Madurai,144746,234698,4.6,4,5,5,5,5,4,Male,79.8,CET,46547,Commerce,BBA,Yes,2025-03-23,2025-05-04,+918340888366,mumbaiuniversity@edu.in
+NIT Trichy,Punjab,Chandigarh,199144,385982,3.2,5,5,4,3,5,4,Female,73.5,CUET,11989,Medical,MBBS,Yes,2025-06-24,2025-08-18,+917363547145,nittrichy@edu.in
+Delhi University,Delhi,New Delhi,70234,141427,4.4,4,3,5,3,5,3,Female,71.3,CUET,1791,Arts,BJMC,Yes,2025-03-25,2025-04-30,+918814855401,delhiuniversity@edu.in
+Jadavpur University,Uttar Pradesh,Noida,219197,116911,3.1,3,4,5,3,5,4,Male,95.0,CUET,33366,Commerce,BCom,No,2025-05-03,2025-06-03,+919893107065,jadavpuruniversity@edu.in
+Delhi University,West Bengal,Kolkata,125769,92605,3.2,4,4,3,3,5,5,Male,84.9,JEE,22275,Commerce,BCom,No,2025-02-17,2025-04-18,+919760142867,delhiuniversity@edu.in
+Jadavpur University,Rajasthan,Jaipur,281959,380614,4.3,5,5,5,3,3,3,Female,68.2,CUET,5508,Arts,BJMC,Yes,2025-05-23,2025-08-13,+918088735793,jadavpuruniversity@edu.in
+VIT Vellore,Tamil Nadu,Chennai,101943,335051,3.1,3,4,5,5,5,3,Male,95.2,JEE,11770,Commerce,BCom,No,2025-03-22,2025-06-17,+917017939575,vitvellore@edu.in
+BITS Pilani,Karnataka,Mysore,233066,375458,4.5,4,4,4,5,3,4,Male,75.1,CET,15034,Medical,BDS,Yes,2025-01-07,2025-02-09,+919710055748,bitspilani@edu.in
+VIT Vellore,Punjab,Chandigarh,156792,151090,4.7,4,5,4,4,3,5,Male,92.2,CET,35116,Arts,BA,No,2025-03-03,2025-04-05,+919887327967,vitvellore@edu.in
+Mumbai University,Delhi,New Delhi,151034,232828,5.0,4,5,4,4,5,3,Male,76.7,CUET,4945,Medical,BDS,Yes,2025-01-17,2025-02-23,+917570438145,mumbaiuniversity@edu.in
+IIT Delhi,Karnataka,Bangalore,66765,214595,3.1,5,5,5,3,5,3,Male,89.6,CET,1514,Engineering,CSE,No,2025-05-15,2025-06-15,+919711437999,iitdelhi@edu.in
+Amity University,Delhi,New Delhi,196915,148587,3.3,5,3,3,5,5,4,Male,92.9,JEE,35292,Arts,BA,No,2025-02-20,2025-05-01,+919394755109,amityuniversity@edu.in
+Jadavpur University,Delhi,New Delhi,163842,168388,4.1,4,4,3,4,3,5,Male,85.4,JEE,48267,Arts,BJMC,Yes,2025-03-03,2025-04-21,+917277391669,jadavpuruniversity@edu.in
+SRM Institute,Maharashtra,Nagpur,78096,167999,3.6,3,3,3,4,5,4,Male,69.5,CUET,16215,Medical,MBBS,Yes,2025-01-03,2025-03-20,+918629207739,srminstitute@edu.in
+IIT Bombay,Maharashtra,Nagpur,175548,122357,4.0,4,3,4,4,5,3,Female,90.8,NEET,16831,Arts,BA,Yes,2025-04-12,2025-05-23,+917148877643,iitbombay@edu.in
+BITS Pilani,Uttar Pradesh,Lucknow,276113,165676,4.1,5,3,3,4,5,5,Female,89.7,CET,45696,Arts,BA,No,2025-02-28,2025-05-02,+917459273357,bitspilani@edu.in
+Delhi University,West Bengal,Kolkata,130193,326942,4.6,5,4,4,3,4,4,Male,70.9,CUET,49318,Engineering,ECE,Yes,2025-03-19,2025-05-05,+919385163207,delhiuniversity@edu.in
+Anna University,Delhi,New Delhi,268629,93848,3.5,5,5,4,5,3,5,Male,82.0,NEET,40710,Commerce,BCom,Yes,2025-02-05,2025-03-19,+919723362809,annauniversity@edu.in
+Jadavpur University,Uttar Pradesh,Lucknow,280939,395326,4.0,3,3,5,4,5,5,Female,73.2,CET,28449,Commerce,BCom,No,2025-01-04,2025-02-03,+918076399300,jadavpuruniversity@edu.in
+BITS Pilani,Rajasthan,Jaipur,242689,237330,3.4,4,4,3,5,3,5,Female,86.0,NEET,8549,Medical,BDS,No,2025-01-12,2025-02-19,+919158406447,bitspilani@edu.in
+IIT Bombay,Rajasthan,Jaipur,143069,95803,4.1,3,3,5,5,3,3,Male,86.4,JEE,43443,Arts,BJMC,Yes,2025-03-17,2025-04-16,+917558547978,iitbombay@edu.in
+IIT Bombay,West Bengal,Kolkata,103586,263377,3.6,4,4,4,5,3,4,Male,70.5,CET,11610,Engineering,CSE,No,2025-03-12,2025-05-05,+918694816528,iitbombay@edu.in
+Anna University,Gujarat,Surat,138614,391500,4.4,5,4,5,4,5,5,Female,75.6,CET,34158,Engineering,CSE,Yes,2025-02-05,2025-03-13,+918869283375,annauniversity@edu.in
+Anna University,Rajasthan,Jaipur,151746,227559,4.1,5,3,3,3,5,5,Male,94.5,CET,3148,Arts,BA,No,2025-01-08,2025-04-05,+917571261593,annauniversity@edu.in
+NIT Trichy,Punjab,Chandigarh,287838,271293,4.9,5,5,3,3,5,4,Female,68.2,JEE,47011,Engineering,Civil,Yes,2025-04-07,2025-05-19,+917821921466,nittrichy@edu.in
+Anna University,Tamil Nadu,Chennai,75860,200799,4.0,3,5,4,5,4,4,Male,71.5,JEE,49590,Medical,BDS,Yes,2025-05-10,2025-08-02,+918257223904,annauniversity@edu.in
+Jadavpur University,Punjab,Chandigarh,134001,306642,4.1,3,4,5,5,3,4,Male,67.6,CUET,49329,Engineering,Mechanical,No,2025-03-06,2025-04-12,+918809140715,jadavpuruniversity@edu.in
+IIT Delhi,Tamil Nadu,Chennai,272236,376704,4.6,4,3,4,3,4,5,Female,88.0,CUET,48825,Medical,MBBS,Yes,2025-01-27,2025-03-26,+917553403127,iitdelhi@edu.in
+SRM Institute,West Bengal,Kolkata,275474,176994,4.3,5,5,4,5,4,4,Female,82.4,CET,4410,Commerce,BBA,Yes,2025-05-26,2025-07-02,+918737926260,srminstitute@edu.in
+Christ University,West Bengal,Kolkata,95011,303706,4.0,3,3,4,3,5,5,Female,95.0,NEET,12305,Engineering,ECE,No,2025-01-23,2025-03-09,+919628822714,christuniversity@edu.in
+NIT Trichy,Tamil Nadu,Madurai,134824,194298,4.1,5,5,3,4,4,4,Male,97.9,NEET,5547,Commerce,BBA,Yes,2025-02-28,2025-05-17,+917438073145,nittrichy@edu.in
+NIT Trichy,Tamil Nadu,Chennai,140532,300006,4.4,4,4,5,4,3,4,Female,76.3,NEET,41303,Arts,BA,No,2025-02-16,2025-05-04,+918966429228,nittrichy@edu.in
+SRM Institute,West Bengal,Kolkata,153802,388983,3.2,5,4,3,3,3,4,Male,76.0,NEET,39005,Arts,BA,No,2025-06-12,2025-08-26,+918464851253,srminstitute@edu.in
+Anna University,Gujarat,Ahmedabad,299182,172645,4.9,5,4,3,4,4,5,Female,85.3,JEE,35194,Engineering,Mechanical,No,2025-05-12,2025-07-14,+919136990222,annauniversity@edu.in
+VIT Vellore,Maharashtra,Nagpur,275971,396413,3.9,5,5,3,5,5,3,Female,65.7,CUET,49890,Arts,BJMC,Yes,2025-01-14,2025-03-06,+917612725360,vitvellore@edu.in
+BITS Pilani,Delhi,New Delhi,228816,130106,3.3,5,5,4,5,4,4,Male,68.9,CUET,29660,Medical,BDS,No,2025-02-24,2025-05-09,+918555911339,bitspilani@edu.in
+NIT Trichy,West Bengal,Kolkata,249714,358917,3.6,5,3,3,3,3,3,Male,95.4,NEET,35680,Engineering,Mechanical,No,2025-02-16,2025-03-28,+917149403657,nittrichy@edu.in
+IIT Delhi,Maharashtra,Nagpur,209959,97633,4.8,4,3,3,5,3,3,Female,65.6,CET,4488,Medical,BDS,No,2025-04-22,2025-05-23,+917109429878,iitdelhi@edu.in
+SRM Institute,Uttar Pradesh,Noida,215749,254084,3.3,5,3,5,3,5,4,Female,94.8,JEE,46195,Medical,BDS,Yes,2025-05-14,2025-07-22,+917931324977,srminstitute@edu.in
+VIT Vellore,Punjab,Chandigarh,62337,290494,4.2,3,5,3,4,4,4,Female,86.5,NEET,1597,Medical,BDS,Yes,2025-06-14,2025-08-27,+918854567462,vitvellore@edu.in
+IIT Delhi,Maharashtra,Mumbai,184581,187769,4.6,3,4,4,3,5,4,Male,78.5,NEET,41657,Arts,BJMC,Yes,2025-01-08,2025-02-09,+917674286603,iitdelhi@edu.in
+NIT Trichy,Tamil Nadu,Coimbatore,207428,122355,3.4,4,5,4,4,3,5,Male,96.2,JEE,14823,Commerce,BCom,Yes,2025-04-02,2025-05-16,+919330385830,nittrichy@edu.in
+BITS Pilani,Gujarat,Ahmedabad,51376,192483,3.2,4,4,5,5,3,3,Female,68.3,CET,26513,Commerce,BCom,No,2025-04-08,2025-06-04,+919978293794,bitspilani@edu.in
+IIT Delhi,Punjab,Chandigarh,172764,170010,4.1,5,5,4,3,5,4,Male,65.2,CUET,15929,Engineering,CSE,No,2025-04-10,2025-06-27,+918849761049,iitdelhi@edu.in
+BITS Pilani,Uttar Pradesh,Lucknow,141782,263494,4.4,4,5,4,5,3,5,Male,86.7,NEET,36605,Engineering,Civil,No,2025-04-19,2025-05-22,+918318968039,bitspilani@edu.in
+BITS Pilani,Uttar Pradesh,Lucknow,230915,330025,4.9,3,4,3,3,5,5,Male,76.5,CUET,34225,Commerce,BBA,No,2025-03-20,2025-05-11,+917892466666,bitspilani@edu.in
+Anna University,Punjab,Chandigarh,119375,163399,3.8,5,5,4,4,4,3,Male,77.7,JEE,1798,Arts,BJMC,No,2025-01-08,2025-02-07,+918943494816,annauniversity@edu.in
+Christ University,West Bengal,Kolkata,60283,217401,3.7,3,5,5,4,5,5,Male,89.4,NEET,36812,Engineering,CSE,No,2025-05-07,2025-06-20,+917657730705,christuniversity@edu.in
+Jadavpur University,West Bengal,Kolkata,290220,360124,4.1,3,3,4,5,3,5,Male,97.9,CET,49960,Arts,BA,Yes,2025-04-18,2025-06-14,+918866517574,jadavpuruniversity@edu.in
+Christ University,Karnataka,Bangalore,101755,188158,4.7,5,5,4,5,4,5,Male,82.0,JEE,10142,Engineering,ECE,Yes,2025-06-26,2025-08-08,+919338210878,christuniversity@edu.in
+IIT Bombay,Punjab,Chandigarh,80171,115049,5.0,4,4,5,3,4,3,Male,82.1,CET,2617,Engineering,ECE,No,2025-03-13,2025-06-06,+919610690513,iitbombay@edu.in
+Jadavpur University,Tamil Nadu,Madurai,128423,300961,3.1,5,4,3,4,4,5,Male,84.4,CUET,35199,Medical,MBBS,No,2025-02-15,2025-04-07,+919140712655,jadavpuruniversity@edu.in
+Mumbai University,West Bengal,Kolkata,52548,148877,3.1,5,4,3,3,3,4,Female,83.0,JEE,47354,Commerce,BBA,No,2025-04-08,2025-05-11,+919507801652,mumbaiuniversity@edu.in
+IIT Delhi,Rajasthan,Jaipur,199825,191182,3.7,5,3,4,5,4,5,Male,93.9,JEE,37865,Medical,BDS,No,2025-06-27,2025-07-30,+919422906782,iitdelhi@edu.in
+IIT Bombay,Rajasthan,Jaipur,157647,312862,4.2,4,4,5,5,4,3,Female,65.9,JEE,26898,Engineering,CSE,Yes,2025-05-12,2025-07-19,+917802605951,iitbombay@edu.in
+IIT Delhi,Maharashtra,Mumbai,166615,193120,4.6,4,5,3,5,5,4,Female,69.5,CET,33629,Medical,MBBS,No,2025-05-12,2025-07-19,+919061737621,iitdelhi@edu.in
+Delhi University,Maharashtra,Pune,100520,288553,3.5,4,4,4,4,4,4,Female,81.8,JEE,24315,Commerce,BBA,Yes,2025-03-24,2025-05-18,+919354157814,delhiuniversity@edu.in
+BITS Pilani,Delhi,New Delhi,72055,104117,4.6,4,4,3,4,3,5,Female,92.2,CUET,23422,Medical,MBBS,No,2025-03-12,2025-05-31,+918462518145,bitspilani@edu.in
+Amity University,Uttar Pradesh,Lucknow,86190,354987,4.9,4,4,4,3,5,5,Female,91.0,JEE,5367,Medical,BDS,No,2025-05-11,2025-07-04,+918611222794,amityuniversity@edu.in
+Mumbai University,Gujarat,Ahmedabad,174613,328844,4.2,5,4,3,3,5,3,Male,97.7,CET,25268,Commerce,BCom,No,2025-06-21,2025-08-31,+919798083249,mumbaiuniversity@edu.in
+VIT Vellore,Tamil Nadu,Chennai,57093,143872,3.9,4,3,5,3,3,3,Male,73.3,CET,25644,Medical,BDS,Yes,2025-01-15,2025-03-28,+918631501110,vitvellore@edu.in
+Jadavpur University,Tamil Nadu,Madurai,67551,259984,4.1,3,4,5,4,4,5,Female,76.3,CET,1491,Arts,BA,Yes,2025-01-12,2025-03-13,+918535858645,jadavpuruniversity@edu.in
+BITS Pilani,Uttar Pradesh,Noida,72347,397976,4.9,3,4,3,5,5,5,Male,87.3,CET,16379,Arts,BJMC,Yes,2025-02-22,2025-04-17,+918511784244,bitspilani@edu.in
+NIT Trichy,Uttar Pradesh,Noida,96163,169453,3.8,5,5,5,3,4,4,Female,74.4,JEE,23389,Medical,MBBS,No,2025-06-05,2025-07-17,+917890408381,nittrichy@edu.in
+IIT Delhi,Tamil Nadu,Chennai,65173,203022,3.2,5,3,3,3,3,4,Male,93.8,CET,46493,Arts,BJMC,No,2025-05-20,2025-07-06,+918338538439,iitdelhi@edu.in
+Delhi University,Karnataka,Bangalore,101660,338260,3.7,4,4,5,4,3,3,Female,93.8,CUET,11482,Medical,MBBS,No,2025-04-07,2025-06-15,+919709396339,delhiuniversity@edu.in
+Jadavpur University,Rajasthan,Jaipur,269331,395015,4.5,5,5,3,3,5,5,Male,93.2,JEE,11705,Medical,MBBS,Yes,2025-02-04,2025-03-16,+917971559872,jadavpuruniversity@edu.in
+IIT Delhi,Maharashtra,Nagpur,96528,177136,3.4,3,5,4,4,3,4,Male,88.4,CET,23888,Commerce,BCom,Yes,2025-04-10,2025-05-12,+917628578617,iitdelhi@edu.in
+SRM Institute,Maharashtra,Pune,283826,151268,3.1,5,4,4,5,4,5,Female,86.9,CUET,19631,Medical,MBBS,No,2025-06-17,2025-07-27,+917296171899,srminstitute@edu.in
+NIT Trichy,Punjab,Chandigarh,98276,119791,4.4,5,5,5,5,4,4,Female,69.4,CUET,12289,Medical,BDS,Yes,2025-01-28,2025-04-04,+918310538955,nittrichy@edu.in
+IIT Delhi,Gujarat,Ahmedabad,269752,91381,3.6,4,4,3,5,3,3,Male,71.7,NEET,44183,Medical,BDS,No,2025-04-04,2025-05-04,+918819746170,iitdelhi@edu.in
+VIT Vellore,Punjab,Chandigarh,148786,80605,3.2,4,3,5,5,4,3,Male,96.7,NEET,17144,Medical,MBBS,No,2025-01-02,2025-02-04,+919133987745,vitvellore@edu.in
+Delhi University,Rajasthan,Jaipur,90982,134271,3.9,5,5,3,4,4,5,Female,91.1,CET,1557,Medical,BDS,Yes,2025-04-25,2025-07-14,+918986827659,delhiuniversity@edu.in
+Delhi University,Rajasthan,Jaipur,128705,264061,4.1,5,4,5,4,4,5,Female,72.3,JEE,47206,Arts,BA,Yes,2025-05-20,2025-06-24,+918141259467,delhiuniversity@edu.in
+Delhi University,Gujarat,Ahmedabad,134205,133971,3.6,4,4,3,4,4,5,Male,81.5,NEET,13352,Engineering,Civil,Yes,2025-04-28,2025-07-26,+919054801453,delhiuniversity@edu.in
+NIT Trichy,Delhi,New Delhi,71024,305253,4.8,4,4,3,4,3,4,Female,80.3,JEE,24531,Engineering,CSE,No,2025-01-07,2025-02-19,+917549112484,nittrichy@edu.in
+Anna University,Karnataka,Bangalore,206158,174701,4.4,3,3,4,5,4,5,Female,79.0,NEET,45366,Engineering,CSE,No,2025-01-01,2025-03-04,+917286751383,annauniversity@edu.in
+Christ University,Rajasthan,Jaipur,198626,272073,3.4,4,4,4,4,3,3,Male,73.7,CET,20804,Engineering,ECE,No,2025-06-08,2025-08-04,+918392875676,christuniversity@edu.in
+IIT Delhi,Karnataka,Mysore,231390,220943,3.5,3,5,4,4,3,5,Female,89.6,CET,2145,Engineering,ECE,No,2025-06-02,2025-08-01,+919202102174,iitdelhi@edu.in
+Anna University,Uttar Pradesh,Noida,235626,112118,4.2,5,4,5,4,3,3,Female,69.8,CET,42130,Arts,BA,No,2025-06-15,2025-08-25,+919265190786,annauniversity@edu.in
+Jadavpur University,Karnataka,Bangalore,279076,154583,4.2,3,5,3,5,3,4,Male,87.9,CUET,31556,Commerce,BBA,No,2025-02-01,2025-05-02,+918334148081,jadavpuruniversity@edu.in
+VIT Vellore,Uttar Pradesh,Lucknow,264467,203055,3.6,3,3,3,3,4,4,Male,75.0,JEE,18826,Medical,MBBS,No,2025-06-10,2025-07-28,+918091887133,vitvellore@edu.in
+Delhi University,Karnataka,Mysore,204588,85004,4.7,4,4,3,5,3,4,Male,89.1,NEET,4902,Medical,MBBS,No,2025-02-28,2025-04-24,+918111989396,delhiuniversity@edu.in
+Christ University,Tamil Nadu,Chennai,295390,203792,4.8,4,4,3,5,3,3,Male,71.7,JEE,33798,Medical,MBBS,Yes,2025-01-27,2025-03-26,+919304208774,christuniversity@edu.in
+VIT Vellore,Uttar Pradesh,Lucknow,223576,339913,3.8,4,5,5,4,3,5,Female,69.4,CET,21786,Commerce,BBA,Yes,2025-06-17,2025-08-24,+918292234797,vitvellore@edu.in
+Anna University,Maharashtra,Pune,202924,138200,3.9,3,3,4,4,4,5,Male,79.4,NEET,12878,Commerce,BBA,Yes,2025-04-23,2025-07-11,+919755985381,annauniversity@edu.in
+Anna University,West Bengal,Kolkata,270438,291829,4.3,4,3,3,5,3,5,Female,75.2,NEET,27115,Engineering,ECE,Yes,2025-06-09,2025-08-31,+918216256469,annauniversity@edu.in
+Delhi University,Rajasthan,Jaipur,274983,363633,3.7,4,4,4,5,5,3,Male,69.6,NEET,47208,Engineering,CSE,No,2025-04-12,2025-06-20,+917779063724,delhiuniversity@edu.in
+Anna University,Karnataka,Bangalore,110110,337071,4.7,5,4,4,3,5,4,Male,92.4,JEE,1757,Engineering,Mechanical,Yes,2025-02-14,2025-05-10,+919807327020,annauniversity@edu.in
+Delhi University,Gujarat,Ahmedabad,191446,201153,4.8,5,4,3,5,5,4,Male,82.4,CUET,1328,Medical,BDS,No,2025-04-16,2025-05-29,+918136247761,delhiuniversity@edu.in
+Mumbai University,Maharashtra,Mumbai,81079,218308,4.1,3,3,3,4,3,4,Male,69.8,NEET,4440,Medical,BDS,Yes,2025-05-05,2025-06-08,+917285580016,mumbaiuniversity@edu.in
+Anna University,Punjab,Chandigarh,87945,388062,4.8,5,4,3,3,3,4,Male,69.7,NEET,3915,Commerce,BCom,No,2025-01-25,2025-02-26,+918744707721,annauniversity@edu.in
+Amity University,Gujarat,Ahmedabad,182045,260091,5.0,3,4,3,4,4,4,Male,85.3,CET,11236,Engineering,ECE,Yes,2025-01-25,2025-03-15,+918671659855,amityuniversity@edu.in
+Mumbai University,Delhi,New Delhi,259214,100249,3.1,5,4,3,4,5,3,Male,91.9,NEET,20892,Medical,BDS,No,2025-06-27,2025-09-03,+919638387031,mumbaiuniversity@edu.in
+BITS Pilani,Tamil Nadu,Coimbatore,152807,363457,3.5,4,3,3,3,5,4,Male,83.2,CET,33754,Engineering,CSE,No,2025-03-19,2025-05-23,+919558632730,bitspilani@edu.in
+Anna University,Karnataka,Mysore,292912,391058,3.8,4,3,4,4,4,5,Male,69.8,NEET,26194,Engineering,CSE,No,2025-02-21,2025-05-12,+919736881560,annauniversity@edu.in
+Christ University,Punjab,Chandigarh,225974,180215,4.4,5,5,5,4,4,3,Female,88.8,CET,11237,Medical,BDS,Yes,2025-02-09,2025-03-15,+917394349311,christuniversity@edu.in
+Anna University,Delhi,New Delhi,198356,89039,3.3,3,3,5,3,3,5,Female,74.3,NEET,47543,Engineering,ECE,No,2025-05-09,2025-07-30,+919440472316,annauniversity@edu.in
+Jadavpur University,Uttar Pradesh,Noida,296395,151727,3.3,3,3,3,3,4,4,Male,73.5,JEE,11267,Medical,BDS,No,2025-04-05,2025-05-26,+919268485382,jadavpuruniversity@edu.in
+Mumbai University,Uttar Pradesh,Noida,223294,134234,5.0,4,4,3,4,4,5,Male,71.3,CUET,6498,Commerce,BCom,Yes,2025-02-27,2025-04-06,+919261351569,mumbaiuniversity@edu.in
+Mumbai University,Uttar Pradesh,Lucknow,76455,86764,3.8,5,5,3,3,3,4,Female,95.6,CET,20652,Commerce,BCom,No,2025-02-03,2025-04-10,+918861138872,mumbaiuniversity@edu.in
+VIT Vellore,Karnataka,Mysore,88693,388773,4.6,4,5,5,4,5,5,Male,70.5,NEET,34715,Medical,MBBS,Yes,2025-03-09,2025-05-21,+918681694291,vitvellore@edu.in
+IIT Delhi,Uttar Pradesh,Noida,139824,353554,4.7,3,3,5,5,4,5,Female,77.9,CET,38029,Medical,MBBS,No,2025-06-04,2025-09-01,+919501928973,iitdelhi@edu.in
+Mumbai University,Uttar Pradesh,Lucknow,53120,359314,4.7,3,5,3,5,4,5,Male,93.9,NEET,11912,Engineering,Mechanical,No,2025-02-28,2025-04-14,+918976119053,mumbaiuniversity@edu.in
+BITS Pilani,Punjab,Chandigarh,285849,268299,3.4,4,3,3,5,3,3,Male,87.8,CUET,18043,Commerce,BCom,Yes,2025-03-27,2025-05-27,+917579955345,bitspilani@edu.in
+Anna University,West Bengal,Kolkata,72028,166118,4.5,4,5,5,3,4,4,Male,89.9,NEET,20778,Arts,BJMC,Yes,2025-01-09,2025-04-09,+917972953933,annauniversity@edu.in
+VIT Vellore,West Bengal,Kolkata,73977,243731,3.4,3,5,3,3,3,4,Female,75.1,CET,36792,Arts,BA,No,2025-03-09,2025-04-11,+918691542717,vitvellore@edu.in
+VIT Vellore,West Bengal,Kolkata,214585,241779,3.7,5,4,4,5,4,5,Female,83.0,CUET,24861,Engineering,Mechanical,Yes,2025-06-15,2025-07-23,+918652049372,vitvellore@edu.in
+SRM Institute,Karnataka,Mysore,285160,243113,3.4,4,4,5,5,3,3,Female,93.2,JEE,45111,Commerce,BBA,No,2025-01-19,2025-03-08,+917954227094,srminstitute@edu.in
+IIT Delhi,Tamil Nadu,Madurai,267266,239236,3.9,5,4,4,5,5,5,Male,84.0,CUET,44224,Engineering,ECE,No,2025-01-28,2025-03-03,+917310567707,iitdelhi@edu.in
+Jadavpur University,Karnataka,Mysore,245493,253373,3.0,5,5,3,5,4,5,Male,87.3,CET,1303,Medical,MBBS,Yes,2025-05-22,2025-07-22,+919424847718,jadavpuruniversity@edu.in
+Mumbai University,Karnataka,Bangalore,144569,333079,4.7,3,3,5,4,3,3,Female,79.7,CET,12526,Arts,BJMC,Yes,2025-06-28,2025-08-26,+919285816863,mumbaiuniversity@edu.in
+IIT Bombay,West Bengal,Kolkata,248384,121806,3.7,4,5,3,4,4,4,Male,74.7,JEE,11273,Medical,BDS,No,2025-04-06,2025-05-30,+919356281803,iitbombay@edu.in
+NIT Trichy,Rajasthan,Jaipur,67428,307111,4.0,4,3,5,3,3,4,Female,75.7,CUET,40117,Commerce,BBA,Yes,2025-01-28,2025-03-04,+917480212988,nittrichy@edu.in
+SRM Institute,West Bengal,Kolkata,167808,228525,3.4,3,3,4,3,5,3,Female,85.7,NEET,41931,Commerce,BCom,No,2025-02-20,2025-05-19,+918548215798,srminstitute@edu.in
+Amity University,Uttar Pradesh,Noida,90187,190560,4.3,5,4,3,3,3,5,Male,69.2,CUET,41962,Engineering,ECE,Yes,2025-04-24,2025-06-17,+917597157366,amityuniversity@edu.in
+IIT Delhi,Rajasthan,Jaipur,271965,140839,3.0,4,3,3,3,4,5,Male,96.3,NEET,5634,Medical,BDS,No,2025-01-11,2025-04-06,+919356336082,iitdelhi@edu.in
+NIT Trichy,Delhi,New Delhi,57582,357993,4.5,5,5,5,4,3,3,Female,69.4,JEE,29017,Engineering,Civil,No,2025-04-24,2025-05-30,+917783982553,nittrichy@edu.in
+SRM Institute,Delhi,New Delhi,136473,273069,4.5,3,5,5,4,4,3,Male,65.9,NEET,33644,Arts,BJMC,No,2025-05-19,2025-07-15,+918101900715,srminstitute@edu.in
+Amity University,Delhi,New Delhi,190290,234943,3.6,5,5,4,5,4,4,Male,79.6,CET,48245,Arts,BA,No,2025-01-08,2025-03-11,+919455924157,amityuniversity@edu.in
+SRM Institute,Uttar Pradesh,Lucknow,54939,233841,4.6,5,4,5,4,3,5,Male,91.3,NEET,11198,Commerce,BCom,Yes,2025-03-27,2025-06-16,+918521093193,srminstitute@edu.in
+Jadavpur University,Gujarat,Surat,94678,100952,4.6,4,3,3,3,4,3,Male,68.6,CET,48726,Commerce,BBA,No,2025-03-13,2025-06-05,+919864987285,jadavpuruniversity@edu.in
+Christ University,Karnataka,Mysore,221169,295383,3.6,4,5,4,5,5,5,Male,92.0,NEET,1639,Engineering,CSE,Yes,2025-05-24,2025-08-11,+919272887268,christuniversity@edu.in
+IIT Delhi,Karnataka,Mysore,62302,70429,4.5,5,3,5,5,4,5,Female,79.5,JEE,21289,Commerce,BBA,Yes,2025-03-10,2025-04-25,+917541496473,iitdelhi@edu.in
+IIT Bombay,Karnataka,Mysore,60642,123531,4.8,5,3,4,4,3,5,Male,77.4,NEET,36709,Engineering,Civil,No,2025-05-02,2025-06-13,+918312760181,iitbombay@edu.in
+NIT Trichy,Maharashtra,Pune,263394,391729,3.4,4,4,4,5,4,3,Male,92.5,CET,7958,Medical,BDS,No,2025-05-18,2025-07-21,+917217022775,nittrichy@edu.in
+NIT Trichy,Maharashtra,Nagpur,281040,273120,3.2,5,5,3,4,4,3,Female,74.3,CUET,6674,Medical,BDS,No,2025-04-10,2025-06-03,+919802313399,nittrichy@edu.in
+NIT Trichy,Karnataka,Bangalore,187904,381329,5.0,3,4,4,5,4,4,Male,94.9,CUET,6207,Medical,BDS,Yes,2025-02-17,2025-03-24,+919762602043,nittrichy@edu.in
+VIT Vellore,Rajasthan,Jaipur,92744,379332,4.7,5,3,5,4,4,5,Female,89.4,JEE,38667,Arts,BA,Yes,2025-01-28,2025-03-09,+919145725078,vitvellore@edu.in
+VIT Vellore,Maharashtra,Pune,158885,236996,3.9,4,5,3,3,4,4,Male,88.9,JEE,40792,Engineering,CSE,Yes,2025-04-03,2025-05-23,+919569077568,vitvellore@edu.in
+SRM Institute,Gujarat,Surat,69599,148228,3.6,5,3,4,4,5,3,Female,97.7,CET,44008,Commerce,BBA,No,2025-06-26,2025-09-02,+919965815826,srminstitute@edu.in
+Anna University,Karnataka,Bangalore,110685,97008,4.3,5,4,4,5,5,5,Male,93.3,NEET,38170,Medical,BDS,No,2025-04-03,2025-06-21,+918005478923,annauniversity@edu.in
+VIT Vellore,Maharashtra,Mumbai,271919,329792,3.2,3,5,5,4,5,5,Male,71.3,NEET,18270,Commerce,BCom,Yes,2025-03-18,2025-04-24,+917688236553,vitvellore@edu.in
+Jadavpur University,Uttar Pradesh,Noida,119733,119662,4.0,3,3,3,4,4,5,Male,82.2,CET,37313,Medical,MBBS,No,2025-06-25,2025-08-26,+919238183593,jadavpuruniversity@edu.in
+SRM Institute,Maharashtra,Pune,184423,209066,4.1,3,4,4,5,3,4,Male,71.4,JEE,34156,Arts,BA,No,2025-02-21,2025-05-06,+919131790725,srminstitute@edu.in
+Jadavpur University,Punjab,Chandigarh,122207,236641,4.6,5,3,3,4,4,3,Female,70.2,CUET,104,Medical,BDS,Yes,2025-03-06,2025-05-01,+917929171786,jadavpuruniversity@edu.in
+IIT Bombay,Tamil Nadu,Coimbatore,144610,353003,4.2,4,3,3,3,4,3,Female,74.5,JEE,25080,Engineering,Mechanical,Yes,2025-06-11,2025-08-29,+918482154450,iitbombay@edu.in
+VIT Vellore,West Bengal,Kolkata,198459,190619,3.3,4,4,5,5,4,3,Male,80.1,JEE,23280,Engineering,ECE,No,2025-01-20,2025-03-05,+919310291417,vitvellore@edu.in
+Christ University,Rajasthan,Jaipur,128945,249374,4.4,5,5,4,5,4,5,Male,85.8,CET,29398,Commerce,BCom,No,2025-04-22,2025-07-12,+919708517243,christuniversity@edu.in
+BITS Pilani,Punjab,Chandigarh,114406,241809,4.9,5,3,4,4,5,5,Female,96.5,CET,14342,Commerce,BCom,No,2025-06-17,2025-07-22,+919876068647,bitspilani@edu.in
+SRM Institute,West Bengal,Kolkata,64751,274981,3.1,3,4,3,4,4,5,Male,95.5,NEET,37442,Engineering,ECE,Yes,2025-02-18,2025-04-12,+919551187320,srminstitute@edu.in
+Anna University,Punjab,Chandigarh,87584,312687,4.2,5,5,4,3,4,5,Female,81.8,NEET,17281,Arts,BA,Yes,2025-06-08,2025-08-10,+918089965236,annauniversity@edu.in
+Anna University,Punjab,Chandigarh,155892,300030,4.2,4,4,4,5,4,4,Male,82.4,NEET,36834,Engineering,ECE,No,2025-06-28,2025-08-05,+918222810951,annauniversity@edu.in
+Mumbai University,West Bengal,Kolkata,118190,279790,3.0,4,5,3,3,4,5,Male,85.6,CET,40698,Engineering,CSE,No,2025-02-14,2025-03-16,+919934493591,mumbaiuniversity@edu.in
+IIT Bombay,Uttar Pradesh,Lucknow,281160,173674,4.6,4,5,3,4,5,5,Male,79.4,CUET,8241,Medical,BDS,Yes,2025-01-27,2025-02-26,+917226517921,iitbombay@edu.in
+Christ University,Uttar Pradesh,Noida,289062,201040,3.1,4,3,4,4,5,4,Male,91.0,CUET,35724,Medical,BDS,No,2025-03-07,2025-05-16,+917917574265,christuniversity@edu.in
+VIT Vellore,Uttar Pradesh,Lucknow,131699,122359,4.7,5,3,5,5,5,3,Male,71.4,CET,17056,Engineering,CSE,Yes,2025-05-24,2025-07-07,+919550794277,vitvellore@edu.in
+IIT Delhi,Rajasthan,Jaipur,264415,153926,4.2,3,5,5,3,3,4,Female,72.6,CUET,19730,Engineering,Mechanical,No,2025-04-18,2025-05-31,+917287113295,iitdelhi@edu.in
+Anna University,Delhi,New Delhi,129499,324177,4.4,4,3,3,3,5,3,Female,65.1,CUET,34085,Medical,MBBS,Yes,2025-05-03,2025-06-06,+918296810620,annauniversity@edu.in
+VIT Vellore,West Bengal,Kolkata,241863,329762,4.3,4,4,4,5,4,5,Male,72.3,JEE,2461,Engineering,CSE,Yes,2025-02-05,2025-03-29,+919278396998,vitvellore@edu.in
+Jadavpur University,Delhi,New Delhi,288845,144222,4.2,5,5,3,5,4,3,Female,78.3,CUET,32733,Arts,BA,No,2025-02-21,2025-04-24,+918702016389,jadavpuruniversity@edu.in
+Christ University,Gujarat,Surat,164203,99993,4.0,5,4,5,5,3,4,Male,97.9,NEET,32508,Engineering,Mechanical,No,2025-02-06,2025-03-21,+917311976864,christuniversity@edu.in
+NIT Trichy,Maharashtra,Mumbai,240892,88011,4.6,4,4,3,5,4,5,Male,86.6,NEET,23749,Engineering,Civil,Yes,2025-01-09,2025-03-22,+917725041687,nittrichy@edu.in
+Amity University,Karnataka,Mysore,296341,94677,3.5,4,5,5,5,4,5,Female,94.8,CET,46414,Medical,MBBS,No,2025-03-13,2025-04-21,+919255004246,amityuniversity@edu.in
+Christ University,Delhi,New Delhi,133372,372693,4.7,5,3,4,3,4,3,Male,67.6,NEET,268,Commerce,BCom,Yes,2025-04-14,2025-07-08,+918246250088,christuniversity@edu.in
+Amity University,West Bengal,Kolkata,245860,381956,3.8,4,5,4,5,5,4,Male,79.3,NEET,36472,Engineering,ECE,Yes,2025-05-11,2025-06-16,+919546801797,amityuniversity@edu.in
+IIT Delhi,West Bengal,Kolkata,231585,250629,3.6,4,4,3,5,5,3,Female,73.5,CET,47927,Engineering,Civil,No,2025-04-03,2025-06-12,+917550486411,iitdelhi@edu.in
+NIT Trichy,Uttar Pradesh,Noida,252591,79626,3.6,4,3,4,4,3,5,Female,95.7,CET,36313,Engineering,ECE,No,2025-04-22,2025-06-18,+917023387038,nittrichy@edu.in
+Christ University,Tamil Nadu,Coimbatore,271621,377790,3.7,5,3,3,5,5,5,Male,89.4,CUET,9094,Commerce,BCom,No,2025-02-26,2025-04-28,+917453652802,christuniversity@edu.in
+Christ University,Maharashtra,Mumbai,205429,102025,3.9,3,5,4,4,5,3,Female,97.9,CUET,27167,Engineering,Mechanical,No,2025-06-11,2025-07-15,+918257671045,christuniversity@edu.in
+VIT Vellore,Delhi,New Delhi,220350,350817,4.8,5,4,4,5,3,5,Male,73.0,JEE,20675,Engineering,ECE,No,2025-05-20,2025-08-14,+919187433834,vitvellore@edu.in
+Christ University,Punjab,Chandigarh,169084,354915,4.1,5,4,4,3,3,4,Female,71.4,JEE,42092,Engineering,CSE,No,2025-01-04,2025-02-03,+919213046954,christuniversity@edu.in
+Mumbai University,Maharashtra,Nagpur,192184,392953,4.5,3,4,5,3,3,3,Male,85.3,NEET,27671,Commerce,BCom,No,2025-03-20,2025-05-05,+919028445382,mumbaiuniversity@edu.in
+SRM Institute,Tamil Nadu,Chennai,221442,158012,3.1,4,3,5,4,5,5,Male,69.8,NEET,20110,Engineering,Civil,No,2025-05-28,2025-07-23,+919519011188,srminstitute@edu.in
+Amity University,Maharashtra,Pune,210769,181536,4.4,5,5,3,3,3,4,Female,70.0,CET,2085,Commerce,BBA,Yes,2025-05-05,2025-07-24,+919963902408,amityuniversity@edu.in
+BITS Pilani,Punjab,Chandigarh,288523,108413,4.1,3,3,4,4,3,3,Male,68.9,NEET,37638,Commerce,BCom,Yes,2025-01-23,2025-03-24,+917971619131,bitspilani@edu.in
+Amity University,Punjab,Chandigarh,200901,251740,3.4,3,4,5,5,4,3,Female,83.5,CET,42318,Commerce,BBA,Yes,2025-01-19,2025-03-19,+919965762214,amityuniversity@edu.in
+SRM Institute,Delhi,New Delhi,228013,356391,4.9,4,4,3,3,5,5,Male,66.9,CUET,19628,Engineering,Civil,Yes,2025-05-14,2025-07-05,+918386418761,srminstitute@edu.in
+BITS Pilani,Gujarat,Surat,289851,353920,3.9,3,5,5,4,5,4,Male,97.6,JEE,11788,Medical,BDS,No,2025-06-03,2025-08-20,+919840531375,bitspilani@edu.in
+BITS Pilani,Maharashtra,Nagpur,209847,284023,3.8,4,3,3,5,3,5,Female,77.6,NEET,17706,Engineering,ECE,Yes,2025-06-06,2025-07-26,+919495019920,bitspilani@edu.in
+SRM Institute,Tamil Nadu,Chennai,165657,368221,3.1,5,5,3,4,4,3,Male,91.5,JEE,20174,Engineering,ECE,No,2025-03-07,2025-05-08,+919734226950,srminstitute@edu.in
+Christ University,Uttar Pradesh,Noida,118910,316729,3.5,4,3,5,3,3,4,Male,72.9,NEET,47667,Arts,BA,Yes,2025-04-21,2025-05-29,+918533772874,christuniversity@edu.in
+Anna University,Tamil Nadu,Chennai,247179,261716,3.6,3,4,4,3,4,5,Male,96.6,CET,48341,Commerce,BCom,No,2025-04-05,2025-06-27,+919754094263,annauniversity@edu.in
+Christ University,Delhi,New Delhi,228502,102909,3.6,3,3,5,5,5,4,Male,86.1,CUET,37199,Engineering,ECE,No,2025-03-05,2025-05-16,+918871342387,christuniversity@edu.in
+Mumbai University,Punjab,Chandigarh,133690,201248,3.7,3,3,3,3,3,4,Male,90.7,CUET,11229,Arts,BA,No,2025-04-18,2025-07-16,+918487344298,mumbaiuniversity@edu.in
+Mumbai University,Uttar Pradesh,Noida,268052,103504,3.0,4,3,3,3,3,5,Female,97.8,NEET,32055,Arts,BA,Yes,2025-01-12,2025-03-31,+919514429237,mumbaiuniversity@edu.in
+SRM Institute,Rajasthan,Jaipur,84703,97545,4.2,5,4,3,5,4,3,Female,89.2,CET,27385,Commerce,BBA,No,2025-05-10,2025-06-19,+917920182581,srminstitute@edu.in
+Jadavpur University,Tamil Nadu,Chennai,233759,328437,3.8,4,5,3,3,3,4,Female,70.5,CET,33795,Medical,BDS,No,2025-04-24,2025-06-18,+919562560922,jadavpuruniversity@edu.in
