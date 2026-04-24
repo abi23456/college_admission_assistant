@@ -1,69 +1,78 @@
 from mcp.server.fastmcp import FastMCP
+import os
 
-# Initialize FastMCP server
+# 🔥 Allow external hosts (ngrok fix)
+os.environ["FASTMCP_ALLOW_ALL_HOSTS"] = "true"
+
+# Create MCP server
 mcp = FastMCP("CollegeAdmissionTools")
+
+# ---------------- TOOLS ---------------- #
 
 @mcp.tool()
 def get_deadlines(university: str) -> str:
-    """Get admission deadlines for a specific university."""
-    mock_data = {
-        "stanford": "Early Action: Nov 1, Regular Decision: Jan 5",
-        "mit": "Early Action: Nov 1, Regular Decision: Jan 4",
-        "harvard": "Restrictive Early Action: Nov 1, Regular Decision: Jan 1",
-        "uc berkeley": "Regular Decision: Nov 30"
+    data = {
+        "iit bombay": "JEE Advanced: May, JoSAA Counseling: June-July",
+        "iit delhi": "JEE Advanced: May, JoSAA Counseling: June-July",
+        "iit madras": "JEE Advanced: May, JoSAA Counseling: June-July",
+        "bits pilani": "BITSAT Session 1: May, Session 2: June",
+        "nit trichy": "JEE Main: Jan & April, JoSAA Counseling: June",
+        "nit surathkal": "JEE Main: Jan & April, JoSAA Counseling: June",
+        "delhi university": "CUET UG: May, CSAS Portal Allocation: July",
+        "anna university": "TNEA Counseling Registration: May",
+        "vit vellore": "VITEEE: April, Counseling: May",
+        "srmist": "SRMJEEE: April & June",
+        "iisc bangalore": "IISC Portal Registration: June",
+        "jadavpur university": "WBJEE: April, Counseling: July",
+        "aiims delhi": "NEET UG: May, MCC Counseling: July"
     }
-    uni = university.lower()
-    if uni in mock_data:
-        return f"Deadlines for {university.title()}: {mock_data[uni]}"
-    else:
-        return f"Sorry, I don't have deadline information for {university}. Please check their official website."
+    return data.get(university.lower(), f"No deadline info for {university}")
+
+
+from typing import Any
 
 @mcp.tool()
-def generate_checklist(applicant_type: str = "freshman") -> str:
-    """Generate a step-by-step checklist based on applicant type (freshman, transfer, international)."""
-    if applicant_type.lower() == "freshman":
-        return """
-**Freshman Admission Checklist:**
-1. Complete Common App or Coalition App.
-2. Submit High School Transcripts.
-3. Submit SAT/ACT scores (if not test-optional).
-4. Request 2 Letters of Recommendation from teachers.
-5. Write and refine Personal Essay.
-6. Pay application fee or submit fee waiver.
-        """
-    elif applicant_type.lower() == "international":
-        return """
-**International Admission Checklist:**
-1. Complete Common Application.
-2. Submit translated Transcripts.
-3. Provide English Proficiency Test (TOEFL/IELTS/Duolingo).
-4. Submit proof of finances (Bank statement/Certification of Finances).
-5. Request Letters of Recommendation.
-6. Review visa requirements.
-        """
-    elif applicant_type.lower() == "transfer":
-         return """
-**Transfer Admission Checklist:**
-1. Complete Transfer Application.
-2. Submit College Transcripts (and High School if required).
-3. Obtain College Report from current institution.
-4. Request Academic Evaluation from a college professor.
-5. Write transfer-specific essay (Why do you want to transfer?).
-        """
+def generate_checklist(course_type: Any = "engineering") -> str:
+    # Handle the case where the AI sends a JSON object/dict instead of a string
+    if isinstance(course_type, dict):
+        # Extract the value from the dict, defaulting to "engineering"
+        # Sometimes the AI uses the parameter name as the key
+        course_type = course_type.get("course_type", "engineering")
+        
+    course_type = str(course_type).lower()
+
+    if course_type == "engineering":
+        return "Engineering: 12th Marksheet, JEE Scorecard, Aadhar, Category Certificate."
+    elif course_type == "medical":
+        return "Medical: 12th PCB, NEET Scorecard, Medical Certificate."
+    elif course_type == "degree":
+        return "Degree: 12th Marksheet, CUET Scorecard, TC, Photos."
     else:
-        return "Checklist not found for this applicant type. Please specify freshman, international, or transfer."
+        return "Type must be: engineering / medical / degree"
+
 
 @mcp.tool()
-def check_eligibility(gpa: float) -> str:
-    """Check general eligibility and provide guidance based on GPA."""
-    if gpa >= 3.8:
-        return "Highly competitive. You are in a strong position for top-tier and selective universities."
-    elif gpa >= 3.0:
-        return "Eligible. You are competitive for many state and private universities. Focus on strong extracurriculars."
+def check_eligibility(twelfth_percentage: str) -> str:
+    try:
+        val = float(twelfth_percentage)
+    except ValueError:
+        return "Error: percentage must be a number"
+        
+    if val >= 90:
+        return "Top tier colleges possible"
+    elif val >= 75:
+        return "Good for NITs / BITS"
+    elif val >= 60:
+        return "Eligible for many private colleges"
     else:
-        return "Consider holistic review schools, community college transfer paths, or targeted regional schools. A strong essay can help!"
+        return "Consider diploma or improvement"
+
+
+# ---------------- RUN SERVER ---------------- #
 
 if __name__ == "__main__":
-    # Run the MCP server over standard I/O (stdio)
-    print("Starting College Admission MCP Server over stdio...", flush=True)
-    mcp.run(transport='stdio')
+    print(" MCP Server running on port 8000...", flush=True)
+
+    mcp.run(
+        transport="sse"
+    )
