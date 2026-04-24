@@ -1,9 +1,9 @@
 # College Admission Assistant 🎓
 
-This project is a fully-featured Gen AI application integrating **Streamlit (UI)**, **n8n (Orchestration)**, **MCP (Model Context Protocol)**, and **RAG (Vector DB)** to create a ChatGPT-like College Admission Assistant.
+This project is a fully-featured Gen AI application integrating a **Modern HTML/CSS/JS UI**, **n8n (Orchestration)**, **MCP (Model Context Protocol)**, and **RAG (Vector DB)** to create a ChatGPT-like College Admission Assistant.
 
 ## Project Structure
-- `ui/app.py`: The Streamlit chat interface.
+- `ui/`: Contains the pure HTML/CSS/JS frontend files and `app.py` (a lightweight HTTP server to serve the UI).
 - `mcp_server/server.py`: A Python MCP server providing admission-related tools.
 - `data_prep/build_vector_db.py`: A script to initialize a local RAG database using ChromaDB.
 - `n8n_workflows/workflow.json`: A sample n8n workflow for orchestration.
@@ -39,9 +39,9 @@ python mcp_server/server.py
 6. **Activate** the workflow.
 
 ### 5. Run the UI
-Finally, start the Streamlit UI in a new terminal window:
+Finally, start the UI server in a new terminal window:
 ```bash
-streamlit run ui/app.py
+python ui/app.py
 ```
 
-This will open the web interface in your browser (usually `http://localhost:8501`). You can now chat with the assistant!
+This will automatically open the web interface in your browser (usually `http://localhost:8501`). You can now chat with the assistant!

@@ -1,6 +1,9 @@
 import os
 import chromadb
 from chromadb.utils import embedding_functions
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def build_db():
     print("Initializing ChromaDB Cloud for RAG...")
@@ -8,10 +11,11 @@ def build_db():
     # Initialize Cloud ChromaDB
     chroma_client = chromadb.HttpClient(
         host="api.trychroma.com",
-        tenant="default_tenant",
-        database="default_database",
+        ssl=True,
+        tenant="60c0eb23-c9fc-4c46-bc8c-6805273c5af5",
+        database="College_admission_db",
         headers={
-            "x-chroma-token": "ck-CQLfmsWA1jM3ATa7QNK2QHkUBVzEsCagg6nfJ8PCFZp5"
+            "x-chroma-token": os.getenv("CHROMA_TOKEN")        
         }
     )
     

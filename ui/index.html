@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Admission Assistant</title>
+    <!-- Use Google Fonts for modern typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- Include marked.js for Markdown parsing of bot responses -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Background decorative elements -->
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        
+        <div class="glass-panel">
+            <header class="header">
+                <div class="header-icon">🎓</div>
+                <div class="header-text">
+                    <h1>College Admission Assistant</h1>
+                    <p>Ask me about eligibility, required documents, deadlines, or request a step-by-step checklist! (Powered by RAG & n8n)</p>
+                </div>
+            </header>
+            
+            <main class="chat-container" id="chatContainer">
+                <!-- Messages will be injected here -->
+            </main>
+            
+            <footer class="input-container">
+                <form id="chatForm">
+                    <input type="text" id="chatInput" placeholder="E.g., What are the deadlines for Stanford?" autocomplete="off" required>
+                    <button type="submit" id="sendBtn" aria-label="Send Message">
+                        <svg viewBox="0 0 24 24" width="22" height="22" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </form>
+            </footer>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
